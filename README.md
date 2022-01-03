@@ -17,4 +17,6 @@ get_next_line								|	[get_next_line/](https://github.com/asalek/get_next_line)
 printf								|	[ft_printf/](https://github.com/asalek/ft_printf)		| *.c, *.h, Makefile | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/ft_printf)](https://github.com/asalek/ft_printf) |
 born2beroot								|	[born2beroot/](https://github.com/asalek/born2beroot)		| monitoring.sh | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/Born2beroot)](https://github.com/asalek/born2beroot) |
 ## Rank 2
+|			Name				|	Directory	| Repo Files | Mark |
+|:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 minitalk								|	[minitalk/](https://github.com/asalek/born2beroot)		| *.c, minitalk.h, Makefile,  | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/minitalk)](https://github.com/asalek/minitalk) |
