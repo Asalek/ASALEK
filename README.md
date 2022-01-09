@@ -20,4 +20,4 @@ born2beroot								|	[born2beroot/](https://github.com/asalek/born2beroot)		| mo
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 minitalk								|	[minitalk/](https://github.com/asalek/minitalk)		| *.c, minitalk.h, Makefile,  | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/minitalk)](https://github.com/Asalek/Minitalk) |
-EXAM RANK 02								|	[ExamRank02/](https://github.com/asalek/ExamRank02)		| *.c, *.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/get_next_line)](https://github.com/asalek/get_next_line) |
+EXAM RANK 02								|	[ExamRank02/](https://github.com/asalek/ExamRank02)		| *.c, *.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/Exam_Rank_02)](https://github.com/Asalek/Exam_Rank_02) |
