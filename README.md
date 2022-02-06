@@ -21,4 +21,4 @@ born2beroot								|	[born2beroot/](https://github.com/asalek/born2beroot)		| mo
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 minitalk								|	[minitalk/](https://github.com/asalek/minitalk)		| *.c, minitalk.h, Makefile,  | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/minitalk)](https://github.com/Asalek/Minitalk) |
 EXAM RANK 02								|	[ExamRank02/](https://github.com/asalek/Exam_Rank_02)		| *.c, *.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/get_next_line)](https://github.com/asalek/Exam_Rank_02) |
-Fract-ol								|	[Fract-ol/](https://github.com/asalek/fract-ol)		| *.c, *.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/fract-ol)](https://github.com/asalek/fract-ol) |
+Fract-ol								|	[Fract-ol/](https://github.com/Asalek/Fractol)		| *.c, *.h | [![agaliste's 42Project Score](https://badge42.herokuapp.com/api/project/asalek/fract-ol)](https://github.com/Asalek/Fractol) |
