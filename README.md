@@ -1,5 +1,6 @@
+[![Asalek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asalek&show_icons=true&theme=dracula&hide=prs,issues,contribs)](https://github.com/asalek/github-readme-stats)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&login=asalek)](https://github.com/asalek/1337-readme)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asalek&layout=compact)](https://github.com/Asalek/github-readme-stats)
 
 These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/).
 
