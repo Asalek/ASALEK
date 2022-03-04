@@ -2,6 +2,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asalek&layout=compact)](https://github.com/Asalek/github-readme-stats)
 
+<div>
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Asalek&column=8&theme=gruvbox&no-frame=true"/>
+</div>
+<hr/>
 These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/).
 
 ## Rank 0
