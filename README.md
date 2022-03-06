@@ -7,7 +7,8 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Asalek&column=8&theme=gruvbox&no-frame=true"/>
 </div>
 <hr/>
-These are all my projects in the 42Cursus of [1337 MOROCCO](https://www.1337.ma/).
+
+These are all my projects in the 42Cursus of [1337_MOROCCO](https://www.1337.ma/).
 
 ## Rank 0
 
