@@ -30,3 +30,4 @@ minitalk								|	[minitalk/](https://github.com/asalek/minitalk)		| *.c, minita
 EXAM RANK 02								|	[ExamRank02/](https://github.com/asalek/Exam_Rank_02)		| *.c, *.h | [100](https://github.com/asalek/Exam_Rank_02)
 Fract-ol								|	[Fract-ol/](https://github.com/Asalek/Fractol)		| *.c, *.h | [125](https://github.com/Asalek/Fractol)
 Push_Swap								|	[Push_swap/](https://github.com/Asalek/Push_swap.git)		| *.c, *.h | [125](https://github.com/Asalek/Push_swap)
+Philosophers								|	[Philosophers/](https://github.com/Asalek/Philosophers.git)		| *.c, *.h | [100](https://github.com/Asalek/Philosophers)
